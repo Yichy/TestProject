@@ -102,8 +102,15 @@ int main(void)
 	/* USER CODE BEGIN WHILE */
 	while (1)
 	{
-		ledAllFlash();	/****This funciton uses following funcitons:
-							*led1ChangeState(); ledRed(); ledGreen(); ledBlue();*/
+		//ledAllFlash();	/****This funciton uses following funcitons:
+		//					*led1ChangeState(); ledRed(); ledGreen(); ledBlue();*/
+		ledR_L;
+		ledG_L;
+		ledB_H;
+		
+		ledR_H;
+		ledG_H;
+		ledB_H;
 	/* USER CODE END WHILE */
 
 	/* USER CODE BEGIN 3 */

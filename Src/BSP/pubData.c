@@ -6,11 +6,11 @@ void ledAllFlash(void)
 {
 	led1ChangeState();
 	ledRed();
-	HAL_Delay(500);
+	HAL_Delay(1000);
 	led1ChangeState();
 	ledGreen();
-	HAL_Delay(500);
+	HAL_Delay(1000);
 	led1ChangeState();
 	ledBlue();
-	HAL_Delay(500);
+	HAL_Delay(1000);
 }
