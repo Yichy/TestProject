@@ -6,5 +6,10 @@
 #include "gpio.h"
 
 #include "led.h"
+#include "ledRGB.h"
+
+//init functions=============================================
+void ledAllFlash(void);
+//-----------------------------------------------------------
 
 #endif

@@ -6,7 +6,7 @@
 //-----------------------------------------------------------------------
 
 //function init
-void led1ChangeState500(void);
+void led1ChangeState(void);
 //-----------------------------------------------------------------------
 
 //led high low pin settings

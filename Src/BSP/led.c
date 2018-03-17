@@ -1,7 +1,6 @@
 #include "pubData.h"
 
-void led1ChangeState500(void)
+void led1ChangeState(void)
 {
-	led1_T;
-	HAL_Delay(500);
+		led1_T;
 }

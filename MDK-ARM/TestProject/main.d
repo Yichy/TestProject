@@ -29,3 +29,4 @@ testproject\main.o: ../Drivers/STM32F0xx_HAL_Driver/Inc/stm32f0xx_hal_pwr_ex.h
 testproject\main.o: ../Inc/gpio.h
 testproject\main.o: ..\Src\BSP\pubData.h
 testproject\main.o: ..\Src\BSP\led.h
+testproject\main.o: ..\Src\BSP\ledRGB.h
