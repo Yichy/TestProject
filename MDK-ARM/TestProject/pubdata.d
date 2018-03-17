@@ -1,5 +1,5 @@
-testproject\pubdata.o: ..\BSP\pubData.c
-testproject\pubdata.o: ..\BSP\pubData.h
+testproject\pubdata.o: ..\Src\BSP\pubData.c
+testproject\pubdata.o: ..\Src\BSP\pubData.h
 testproject\pubdata.o: ../Inc/main.h
 testproject\pubdata.o: ../Drivers/STM32F0xx_HAL_Driver/Inc/stm32f0xx_hal.h
 testproject\pubdata.o: ../Inc/stm32f0xx_hal_conf.h
@@ -28,4 +28,4 @@ testproject\pubdata.o: ../Drivers/STM32F0xx_HAL_Driver/Inc/stm32f0xx_hal_i2c_ex.
 testproject\pubdata.o: ../Drivers/STM32F0xx_HAL_Driver/Inc/stm32f0xx_hal_pwr.h
 testproject\pubdata.o: ../Drivers/STM32F0xx_HAL_Driver/Inc/stm32f0xx_hal_pwr_ex.h
 testproject\pubdata.o: ../Inc/gpio.h
-testproject\pubdata.o: ..\BSP\led.h
+testproject\pubdata.o: ..\Src\BSP\led.h
