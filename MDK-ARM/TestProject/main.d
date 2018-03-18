@@ -31,3 +31,4 @@ testproject\main.o: ..\Src\BSP\pubData.h
 testproject\main.o: ..\Src\BSP\led.h
 testproject\main.o: ..\Src\BSP\ledRGB.h
 testproject\main.o: ..\Src\BSP\beeper.h
+testproject\main.o: ..\Src\BSP\key.h

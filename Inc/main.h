@@ -49,8 +49,14 @@
 
 /* Private define ------------------------------------------------------------*/
 
+#define key2_Pin GPIO_PIN_13
+#define key2_GPIO_Port GPIOC
 #define BPR_Pin GPIO_PIN_1
 #define BPR_GPIO_Port GPIOA
+#define key3_Pin GPIO_PIN_0
+#define key3_GPIO_Port GPIOB
+#define key4_Pin GPIO_PIN_1
+#define key4_GPIO_Port GPIOB
 #define LED_1_Pin GPIO_PIN_6
 #define LED_1_GPIO_Port GPIOC
 #define LED_B_Pin GPIO_PIN_7
@@ -59,6 +65,8 @@
 #define LED_G_GPIO_Port GPIOC
 #define LED_R_Pin GPIO_PIN_9
 #define LED_R_GPIO_Port GPIOC
+#define key1_Pin GPIO_PIN_12
+#define key1_GPIO_Port GPIOC
 
 /* ########################## Assert Selection ############################## */
 /**

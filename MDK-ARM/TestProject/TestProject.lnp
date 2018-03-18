@@ -3,6 +3,7 @@
 "testproject\led.o"
 "testproject\ledrgb.o"
 "testproject\beeper.o"
+"testproject\key.o"
 "testproject\startup_stm32f072xb.o"
 "testproject\stm32f0xx_hal_flash.o"
 "testproject\stm32f0xx_hal_dma.o"

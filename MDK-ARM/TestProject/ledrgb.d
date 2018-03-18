@@ -31,3 +31,4 @@ testproject\ledrgb.o: ../Inc/gpio.h
 testproject\ledrgb.o: ..\Src\BSP\led.h
 testproject\ledrgb.o: ..\Src\BSP\ledRGB.h
 testproject\ledrgb.o: ..\Src\BSP\beeper.h
+testproject\ledrgb.o: ..\Src\BSP\key.h

@@ -31,3 +31,4 @@ testproject\pubdata.o: ../Inc/gpio.h
 testproject\pubdata.o: ..\Src\BSP\led.h
 testproject\pubdata.o: ..\Src\BSP\ledRGB.h
 testproject\pubdata.o: ..\Src\BSP\beeper.h
+testproject\pubdata.o: ..\Src\BSP\key.h
