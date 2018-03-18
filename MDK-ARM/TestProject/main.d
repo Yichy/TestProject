@@ -30,3 +30,4 @@ testproject\main.o: ../Inc/gpio.h
 testproject\main.o: ..\Src\BSP\pubData.h
 testproject\main.o: ..\Src\BSP\led.h
 testproject\main.o: ..\Src\BSP\ledRGB.h
+testproject\main.o: ..\Src\BSP\beeper.h

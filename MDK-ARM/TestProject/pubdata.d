@@ -30,3 +30,4 @@ testproject\pubdata.o: ../Drivers/STM32F0xx_HAL_Driver/Inc/stm32f0xx_hal_pwr_ex.
 testproject\pubdata.o: ../Inc/gpio.h
 testproject\pubdata.o: ..\Src\BSP\led.h
 testproject\pubdata.o: ..\Src\BSP\ledRGB.h
+testproject\pubdata.o: ..\Src\BSP\beeper.h

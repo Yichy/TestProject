@@ -7,6 +7,7 @@
 
 #include "led.h"
 #include "ledRGB.h"
+#include "beeper.h"
 
 //init functions=============================================
 void ledAllFlash(void);
