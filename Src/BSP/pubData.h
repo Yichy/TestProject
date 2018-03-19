@@ -10,8 +10,21 @@
 #include "beeper.h"
 #include "key.h"
 
+
+//public variables===========================================
+typedef struct{
+	int r;
+	int g;
+	int b;
+}RGB_TypeDef;
+
+extern RGB_TypeDef RGB;
+//-----------------------------------------------------------
+
 //init functions=============================================
 void ledAllFlash(void);
+void rgbColor(void);
+
 //-----------------------------------------------------------
 
 #endif

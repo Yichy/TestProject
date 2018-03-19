@@ -112,7 +112,11 @@ int main(void)
 		ledG_H;
 		ledB_H;*/
 		
-		beepL;				//beeper test
+		//beep_L;				//beeper test
+		
+		keyBlockingTest();
+		
+		rgbColor();
   /* USER CODE END WHILE */
 
   /* USER CODE BEGIN 3 */

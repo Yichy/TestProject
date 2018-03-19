@@ -4,9 +4,9 @@
 #include "main.h"
 #include "stm32f0xx_hal.h"
 
-#define beepH HAL_GPIO_WritePin	(BPR_GPIO_Port, BPR_Pin, GPIO_PIN_SET);
-#define beepL HAL_GPIO_WritePin	(BPR_GPIO_Port, BPR_Pin, GPIO_PIN_RESET);
-#define beepT HAL_GPIO_TogglePin(BPR_GPIO_Port, BPR_Pin);
+#define beep_H HAL_GPIO_WritePin	(BPR_GPIO_Port, BPR_Pin, GPIO_PIN_SET);
+#define beep_L HAL_GPIO_WritePin	(BPR_GPIO_Port, BPR_Pin, GPIO_PIN_RESET);
+#define beep_T HAL_GPIO_TogglePin(BPR_GPIO_Port, BPR_Pin);
 
 //functions init===================================================
 void beepSwitch(void);

@@ -2,6 +2,6 @@
 
 void beepSwitch(void)
 {
-	beepT;
+	beep_T;
 	HAL_Delay(200);
 }
