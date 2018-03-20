@@ -12,13 +12,17 @@
 
 
 //public variables===========================================
-typedef struct{
+#define bool int
+#define true 1
+#define false 0
+
+
+extern struct RGB_Type{
 	int r;
 	int g;
 	int b;
-}RGB_TypeDef;
+}RGB;
 
-extern RGB_TypeDef RGB;
 //-----------------------------------------------------------
 
 //init functions=============================================

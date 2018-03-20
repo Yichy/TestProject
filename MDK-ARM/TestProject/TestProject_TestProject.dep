@@ -1,6 +1,6 @@
 Dependencies for Project 'TestProject', Target 'TestProject': (DO NOT MODIFY !)
-F (..\Src\BSP\pubData.c)(0x5AAF3F0E)(--c99 -c --cpu Cortex-M0 -D__MICROLIB -g -O3 --apcs=interwork --split_sections -I ../Inc -I ../Drivers/STM32F0xx_HAL_Driver/Inc -I ../Drivers/STM32F0xx_HAL_Driver/Inc/Legacy -I ../Drivers/CMSIS/Device/ST/STM32F0xx/Include -I ../Drivers/CMSIS/Include -I ..\Src\BSP-I E:\!!ST_MC\STM32CudeMXProject\TestProject\MDK-ARM\RTE-I C:\Keil_v5\ARM\PACK\ARM\CMSIS\4.5.0\CMSIS\Include-I C:\Keil_v5\ARM\PACK\Keil\STM32F0xx_DFP\1.4.0\Device\Include-D__UVISION_VERSION="518" -D_RTE_ -DSTM32F072 -DUSE_HAL_DRIVER -DSTM32F072xB-o testproject\pubdata.o --omf_browse testproject\pubdata.crf --depend testproject\pubdata.d)
-I (..\Src\BSP\pubData.h)(0x5AAF3CF1)
+F (..\Src\BSP\pubData.c)(0x5AAF8A5E)(--c99 -c --cpu Cortex-M0 -D__MICROLIB -g -O3 --apcs=interwork --split_sections -I ../Inc -I ../Drivers/STM32F0xx_HAL_Driver/Inc -I ../Drivers/STM32F0xx_HAL_Driver/Inc/Legacy -I ../Drivers/CMSIS/Device/ST/STM32F0xx/Include -I ../Drivers/CMSIS/Include -I ..\Src\BSP-I E:\!!ST_MC\STM32CudeMXProject\TestProject\MDK-ARM\RTE-I C:\Keil_v5\ARM\PACK\ARM\CMSIS\4.5.0\CMSIS\Include-I C:\Keil_v5\ARM\PACK\Keil\STM32F0xx_DFP\1.4.0\Device\Include-D__UVISION_VERSION="518" -D_RTE_ -DSTM32F072 -DUSE_HAL_DRIVER -DSTM32F072xB-o testproject\pubdata.o --omf_browse testproject\pubdata.crf --depend testproject\pubdata.d)
+I (..\Src\BSP\pubData.h)(0x5AAF7F79)
 I (../Inc/main.h)(0x5AAF3B7D)
 I (../Drivers/STM32F0xx_HAL_Driver/Inc/stm32f0xx_hal.h)(0x5AA482DE)
 I (../Inc/stm32f0xx_hal_conf.h)(0x5AAE12B1)
@@ -28,12 +28,12 @@ I (../Drivers/STM32F0xx_HAL_Driver/Inc/stm32f0xx_hal_i2c_ex.h)(0x5AA482DE)
 I (../Drivers/STM32F0xx_HAL_Driver/Inc/stm32f0xx_hal_pwr.h)(0x5AA482DE)
 I (../Drivers/STM32F0xx_HAL_Driver/Inc/stm32f0xx_hal_pwr_ex.h)(0x5AA482DE)
 I (../Inc/gpio.h)(0x5AAE12B1)
-I (..\Src\BSP\led.h)(0x5AAF3689)
+I (..\Src\BSP\led.h)(0x5AAF8789)
 I (..\Src\BSP\ledRGB.h)(0x5AAF3B65)
 I (..\Src\BSP\beeper.h)(0x5AAF3690)
-I (..\Src\BSP\key.h)(0x5AAF3CE1)
+I (..\Src\BSP\key.h)(0x5AAF8634)
 F (..\Src\BSP\led.c)(0x5AAF367F)(--c99 -c --cpu Cortex-M0 -D__MICROLIB -g -O3 --apcs=interwork --split_sections -I ../Inc -I ../Drivers/STM32F0xx_HAL_Driver/Inc -I ../Drivers/STM32F0xx_HAL_Driver/Inc/Legacy -I ../Drivers/CMSIS/Device/ST/STM32F0xx/Include -I ../Drivers/CMSIS/Include -I ..\Src\BSP-I E:\!!ST_MC\STM32CudeMXProject\TestProject\MDK-ARM\RTE-I C:\Keil_v5\ARM\PACK\ARM\CMSIS\4.5.0\CMSIS\Include-I C:\Keil_v5\ARM\PACK\Keil\STM32F0xx_DFP\1.4.0\Device\Include-D__UVISION_VERSION="518" -D_RTE_ -DSTM32F072 -DUSE_HAL_DRIVER -DSTM32F072xB-o testproject\led.o --omf_browse testproject\led.crf --depend testproject\led.d)
-I (..\Src\BSP\pubData.h)(0x5AAF3CF1)
+I (..\Src\BSP\pubData.h)(0x5AAF7F79)
 I (../Inc/main.h)(0x5AAF3B7D)
 I (../Drivers/STM32F0xx_HAL_Driver/Inc/stm32f0xx_hal.h)(0x5AA482DE)
 I (../Inc/stm32f0xx_hal_conf.h)(0x5AAE12B1)
@@ -61,12 +61,12 @@ I (../Drivers/STM32F0xx_HAL_Driver/Inc/stm32f0xx_hal_i2c_ex.h)(0x5AA482DE)
 I (../Drivers/STM32F0xx_HAL_Driver/Inc/stm32f0xx_hal_pwr.h)(0x5AA482DE)
 I (../Drivers/STM32F0xx_HAL_Driver/Inc/stm32f0xx_hal_pwr_ex.h)(0x5AA482DE)
 I (../Inc/gpio.h)(0x5AAE12B1)
-I (..\Src\BSP\led.h)(0x5AAF3689)
+I (..\Src\BSP\led.h)(0x5AAF8789)
 I (..\Src\BSP\ledRGB.h)(0x5AAF3B65)
 I (..\Src\BSP\beeper.h)(0x5AAF3690)
-I (..\Src\BSP\key.h)(0x5AAF3CE1)
+I (..\Src\BSP\key.h)(0x5AAF8634)
 F (..\Src\BSP\ledRGB.c)(0x5AADD815)(--c99 -c --cpu Cortex-M0 -D__MICROLIB -g -O3 --apcs=interwork --split_sections -I ../Inc -I ../Drivers/STM32F0xx_HAL_Driver/Inc -I ../Drivers/STM32F0xx_HAL_Driver/Inc/Legacy -I ../Drivers/CMSIS/Device/ST/STM32F0xx/Include -I ../Drivers/CMSIS/Include -I ..\Src\BSP-I E:\!!ST_MC\STM32CudeMXProject\TestProject\MDK-ARM\RTE-I C:\Keil_v5\ARM\PACK\ARM\CMSIS\4.5.0\CMSIS\Include-I C:\Keil_v5\ARM\PACK\Keil\STM32F0xx_DFP\1.4.0\Device\Include-D__UVISION_VERSION="518" -D_RTE_ -DSTM32F072 -DUSE_HAL_DRIVER -DSTM32F072xB-o testproject\ledrgb.o --omf_browse testproject\ledrgb.crf --depend testproject\ledrgb.d)
-I (..\Src\BSP\pubData.h)(0x5AAF3CF1)
+I (..\Src\BSP\pubData.h)(0x5AAF7F79)
 I (../Inc/main.h)(0x5AAF3B7D)
 I (../Drivers/STM32F0xx_HAL_Driver/Inc/stm32f0xx_hal.h)(0x5AA482DE)
 I (../Inc/stm32f0xx_hal_conf.h)(0x5AAE12B1)
@@ -94,12 +94,12 @@ I (../Drivers/STM32F0xx_HAL_Driver/Inc/stm32f0xx_hal_i2c_ex.h)(0x5AA482DE)
 I (../Drivers/STM32F0xx_HAL_Driver/Inc/stm32f0xx_hal_pwr.h)(0x5AA482DE)
 I (../Drivers/STM32F0xx_HAL_Driver/Inc/stm32f0xx_hal_pwr_ex.h)(0x5AA482DE)
 I (../Inc/gpio.h)(0x5AAE12B1)
-I (..\Src\BSP\led.h)(0x5AAF3689)
+I (..\Src\BSP\led.h)(0x5AAF8789)
 I (..\Src\BSP\ledRGB.h)(0x5AAF3B65)
 I (..\Src\BSP\beeper.h)(0x5AAF3690)
-I (..\Src\BSP\key.h)(0x5AAF3CE1)
+I (..\Src\BSP\key.h)(0x5AAF8634)
 F (..\Src\BSP\beeper.c)(0x5AAF36C6)(--c99 -c --cpu Cortex-M0 -D__MICROLIB -g -O3 --apcs=interwork --split_sections -I ../Inc -I ../Drivers/STM32F0xx_HAL_Driver/Inc -I ../Drivers/STM32F0xx_HAL_Driver/Inc/Legacy -I ../Drivers/CMSIS/Device/ST/STM32F0xx/Include -I ../Drivers/CMSIS/Include -I ..\Src\BSP-I E:\!!ST_MC\STM32CudeMXProject\TestProject\MDK-ARM\RTE-I C:\Keil_v5\ARM\PACK\ARM\CMSIS\4.5.0\CMSIS\Include-I C:\Keil_v5\ARM\PACK\Keil\STM32F0xx_DFP\1.4.0\Device\Include-D__UVISION_VERSION="518" -D_RTE_ -DSTM32F072 -DUSE_HAL_DRIVER -DSTM32F072xB-o testproject\beeper.o --omf_browse testproject\beeper.crf --depend testproject\beeper.d)
-I (..\Src\BSP\pubData.h)(0x5AAF3CF1)
+I (..\Src\BSP\pubData.h)(0x5AAF7F79)
 I (../Inc/main.h)(0x5AAF3B7D)
 I (../Drivers/STM32F0xx_HAL_Driver/Inc/stm32f0xx_hal.h)(0x5AA482DE)
 I (../Inc/stm32f0xx_hal_conf.h)(0x5AAE12B1)
@@ -127,12 +127,12 @@ I (../Drivers/STM32F0xx_HAL_Driver/Inc/stm32f0xx_hal_i2c_ex.h)(0x5AA482DE)
 I (../Drivers/STM32F0xx_HAL_Driver/Inc/stm32f0xx_hal_pwr.h)(0x5AA482DE)
 I (../Drivers/STM32F0xx_HAL_Driver/Inc/stm32f0xx_hal_pwr_ex.h)(0x5AA482DE)
 I (../Inc/gpio.h)(0x5AAE12B1)
-I (..\Src\BSP\led.h)(0x5AAF3689)
+I (..\Src\BSP\led.h)(0x5AAF8789)
 I (..\Src\BSP\ledRGB.h)(0x5AAF3B65)
 I (..\Src\BSP\beeper.h)(0x5AAF3690)
-I (..\Src\BSP\key.h)(0x5AAF3CE1)
-F (..\Src\BSP\key.c)(0x5AAF3D9E)(--c99 -c --cpu Cortex-M0 -D__MICROLIB -g -O3 --apcs=interwork --split_sections -I ../Inc -I ../Drivers/STM32F0xx_HAL_Driver/Inc -I ../Drivers/STM32F0xx_HAL_Driver/Inc/Legacy -I ../Drivers/CMSIS/Device/ST/STM32F0xx/Include -I ../Drivers/CMSIS/Include -I ..\Src\BSP-I E:\!!ST_MC\STM32CudeMXProject\TestProject\MDK-ARM\RTE-I C:\Keil_v5\ARM\PACK\ARM\CMSIS\4.5.0\CMSIS\Include-I C:\Keil_v5\ARM\PACK\Keil\STM32F0xx_DFP\1.4.0\Device\Include-D__UVISION_VERSION="518" -D_RTE_ -DSTM32F072 -DUSE_HAL_DRIVER -DSTM32F072xB-o testproject\key.o --omf_browse testproject\key.crf --depend testproject\key.d)
-I (..\Src\BSP\pubData.h)(0x5AAF3CF1)
+I (..\Src\BSP\key.h)(0x5AAF8634)
+F (..\Src\BSP\key.c)(0x5AAF8A3A)(--c99 -c --cpu Cortex-M0 -D__MICROLIB -g -O3 --apcs=interwork --split_sections -I ../Inc -I ../Drivers/STM32F0xx_HAL_Driver/Inc -I ../Drivers/STM32F0xx_HAL_Driver/Inc/Legacy -I ../Drivers/CMSIS/Device/ST/STM32F0xx/Include -I ../Drivers/CMSIS/Include -I ..\Src\BSP-I E:\!!ST_MC\STM32CudeMXProject\TestProject\MDK-ARM\RTE-I C:\Keil_v5\ARM\PACK\ARM\CMSIS\4.5.0\CMSIS\Include-I C:\Keil_v5\ARM\PACK\Keil\STM32F0xx_DFP\1.4.0\Device\Include-D__UVISION_VERSION="518" -D_RTE_ -DSTM32F072 -DUSE_HAL_DRIVER -DSTM32F072xB-o testproject\key.o --omf_browse testproject\key.crf --depend testproject\key.d)
+I (..\Src\BSP\pubData.h)(0x5AAF7F79)
 I (../Inc/main.h)(0x5AAF3B7D)
 I (../Drivers/STM32F0xx_HAL_Driver/Inc/stm32f0xx_hal.h)(0x5AA482DE)
 I (../Inc/stm32f0xx_hal_conf.h)(0x5AAE12B1)
@@ -160,10 +160,10 @@ I (../Drivers/STM32F0xx_HAL_Driver/Inc/stm32f0xx_hal_i2c_ex.h)(0x5AA482DE)
 I (../Drivers/STM32F0xx_HAL_Driver/Inc/stm32f0xx_hal_pwr.h)(0x5AA482DE)
 I (../Drivers/STM32F0xx_HAL_Driver/Inc/stm32f0xx_hal_pwr_ex.h)(0x5AA482DE)
 I (../Inc/gpio.h)(0x5AAE12B1)
-I (..\Src\BSP\led.h)(0x5AAF3689)
+I (..\Src\BSP\led.h)(0x5AAF8789)
 I (..\Src\BSP\ledRGB.h)(0x5AAF3B65)
 I (..\Src\BSP\beeper.h)(0x5AAF3690)
-I (..\Src\BSP\key.h)(0x5AAF3CE1)
+I (..\Src\BSP\key.h)(0x5AAF8634)
 F (startup_stm32f072xb.s)(0x5AAE12B3)(--cpu Cortex-M0 -g --apcs=interwork --pd "__MICROLIB SETA 1"-I E:\!!ST_MC\STM32CudeMXProject\TestProject\MDK-ARM\RTE-I C:\Keil_v5\ARM\PACK\ARM\CMSIS\4.5.0\CMSIS\Include-I C:\Keil_v5\ARM\PACK\Keil\STM32F0xx_DFP\1.4.0\Device\Include--pd "__UVISION_VERSION SETA 518" --pd "_RTE_ SETA 1" --pd "STM32F072 SETA 1"--list startup_stm32f072xb.lst --xref -o testproject\startup_stm32f072xb.o --depend testproject\startup_stm32f072xb.d)
 F (../Drivers/STM32F0xx_HAL_Driver/Src/stm32f0xx_hal_flash.c)(0x5AA482DE)(--c99 -c --cpu Cortex-M0 -D__MICROLIB -g -O3 --apcs=interwork --split_sections -I ../Inc -I ../Drivers/STM32F0xx_HAL_Driver/Inc -I ../Drivers/STM32F0xx_HAL_Driver/Inc/Legacy -I ../Drivers/CMSIS/Device/ST/STM32F0xx/Include -I ../Drivers/CMSIS/Include -I ..\Src\BSP-I E:\!!ST_MC\STM32CudeMXProject\TestProject\MDK-ARM\RTE-I C:\Keil_v5\ARM\PACK\ARM\CMSIS\4.5.0\CMSIS\Include-I C:\Keil_v5\ARM\PACK\Keil\STM32F0xx_DFP\1.4.0\Device\Include-D__UVISION_VERSION="518" -D_RTE_ -DSTM32F072 -DUSE_HAL_DRIVER -DSTM32F072xB-o testproject\stm32f0xx_hal_flash.o --omf_browse testproject\stm32f0xx_hal_flash.crf --depend testproject\stm32f0xx_hal_flash.d)
 I (../Drivers/STM32F0xx_HAL_Driver/Inc/stm32f0xx_hal.h)(0x5AA482DE)
@@ -625,7 +625,7 @@ I (../Drivers/STM32F0xx_HAL_Driver/Inc/stm32f0xx_hal_i2c_ex.h)(0x5AA482DE)
 I (../Drivers/STM32F0xx_HAL_Driver/Inc/stm32f0xx_hal_pwr.h)(0x5AA482DE)
 I (../Drivers/STM32F0xx_HAL_Driver/Inc/stm32f0xx_hal_pwr_ex.h)(0x5AA482DE)
 I (../Inc/stm32f0xx_it.h)(0x5AAE12B1)
-F (../Src/main.c)(0x5AAF3D3C)(--c99 -c --cpu Cortex-M0 -D__MICROLIB -g -O3 --apcs=interwork --split_sections -I ../Inc -I ../Drivers/STM32F0xx_HAL_Driver/Inc -I ../Drivers/STM32F0xx_HAL_Driver/Inc/Legacy -I ../Drivers/CMSIS/Device/ST/STM32F0xx/Include -I ../Drivers/CMSIS/Include -I ..\Src\BSP-I E:\!!ST_MC\STM32CudeMXProject\TestProject\MDK-ARM\RTE-I C:\Keil_v5\ARM\PACK\ARM\CMSIS\4.5.0\CMSIS\Include-I C:\Keil_v5\ARM\PACK\Keil\STM32F0xx_DFP\1.4.0\Device\Include-D__UVISION_VERSION="518" -D_RTE_ -DSTM32F072 -DUSE_HAL_DRIVER -DSTM32F072xB-o testproject\main.o --omf_browse testproject\main.crf --depend testproject\main.d)
+F (../Src/main.c)(0x5AAF86BA)(--c99 -c --cpu Cortex-M0 -D__MICROLIB -g -O3 --apcs=interwork --split_sections -I ../Inc -I ../Drivers/STM32F0xx_HAL_Driver/Inc -I ../Drivers/STM32F0xx_HAL_Driver/Inc/Legacy -I ../Drivers/CMSIS/Device/ST/STM32F0xx/Include -I ../Drivers/CMSIS/Include -I ..\Src\BSP-I E:\!!ST_MC\STM32CudeMXProject\TestProject\MDK-ARM\RTE-I C:\Keil_v5\ARM\PACK\ARM\CMSIS\4.5.0\CMSIS\Include-I C:\Keil_v5\ARM\PACK\Keil\STM32F0xx_DFP\1.4.0\Device\Include-D__UVISION_VERSION="518" -D_RTE_ -DSTM32F072 -DUSE_HAL_DRIVER -DSTM32F072xB-o testproject\main.o --omf_browse testproject\main.crf --depend testproject\main.d)
 I (../Inc/main.h)(0x5AAF3B7D)
 I (../Drivers/STM32F0xx_HAL_Driver/Inc/stm32f0xx_hal.h)(0x5AA482DE)
 I (../Inc/stm32f0xx_hal_conf.h)(0x5AAE12B1)
@@ -653,11 +653,11 @@ I (../Drivers/STM32F0xx_HAL_Driver/Inc/stm32f0xx_hal_i2c_ex.h)(0x5AA482DE)
 I (../Drivers/STM32F0xx_HAL_Driver/Inc/stm32f0xx_hal_pwr.h)(0x5AA482DE)
 I (../Drivers/STM32F0xx_HAL_Driver/Inc/stm32f0xx_hal_pwr_ex.h)(0x5AA482DE)
 I (../Inc/gpio.h)(0x5AAE12B1)
-I (..\Src\BSP\pubData.h)(0x5AAF3CF1)
-I (..\Src\BSP\led.h)(0x5AAF3689)
+I (..\Src\BSP\pubData.h)(0x5AAF7F79)
+I (..\Src\BSP\led.h)(0x5AAF8789)
 I (..\Src\BSP\ledRGB.h)(0x5AAF3B65)
 I (..\Src\BSP\beeper.h)(0x5AAF3690)
-I (..\Src\BSP\key.h)(0x5AAF3CE1)
+I (..\Src\BSP\key.h)(0x5AAF8634)
 F (../Src/gpio.c)(0x5AAE12B1)(--c99 -c --cpu Cortex-M0 -D__MICROLIB -g -O3 --apcs=interwork --split_sections -I ../Inc -I ../Drivers/STM32F0xx_HAL_Driver/Inc -I ../Drivers/STM32F0xx_HAL_Driver/Inc/Legacy -I ../Drivers/CMSIS/Device/ST/STM32F0xx/Include -I ../Drivers/CMSIS/Include -I ..\Src\BSP-I E:\!!ST_MC\STM32CudeMXProject\TestProject\MDK-ARM\RTE-I C:\Keil_v5\ARM\PACK\ARM\CMSIS\4.5.0\CMSIS\Include-I C:\Keil_v5\ARM\PACK\Keil\STM32F0xx_DFP\1.4.0\Device\Include-D__UVISION_VERSION="518" -D_RTE_ -DSTM32F072 -DUSE_HAL_DRIVER -DSTM32F072xB-o testproject\gpio.o --omf_browse testproject\gpio.crf --depend testproject\gpio.d)
 I (../Inc/gpio.h)(0x5AAE12B1)
 I (../Drivers/STM32F0xx_HAL_Driver/Inc/stm32f0xx_hal.h)(0x5AA482DE)

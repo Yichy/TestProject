@@ -114,9 +114,11 @@ int main(void)
 		
 		//beep_L;				//beeper test
 		
-		keyBlockingTest();
+		//keyBlockingTest();
+		keyNonblockingTest();
 		
 		rgbColor();
+		
   /* USER CODE END WHILE */
 
   /* USER CODE BEGIN 3 */

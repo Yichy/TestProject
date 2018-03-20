@@ -2,19 +2,19 @@
 
 #include "pubData.h"
 
-RGB_TypeDef RGB = {0, 0, 0};
+struct RGB_Type RGB = {false, false, false};
 
 void rgbColor(void){
 	
-	if(RGB.r == 1){
+	if(RGB.r){
 		ledR_L;
 		ledR_H;
 	}
-	if(RGB.g == 1){
+	if(RGB.g){
 		ledG_L;
 		ledG_H;
 	}
-	if(RGB.b == 1){
+	if(RGB.b){
 		ledB_L;
 		ledB_H;
 	}
